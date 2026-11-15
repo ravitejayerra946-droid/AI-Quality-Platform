@@ -1,0 +1,12 @@
+Email Update Policy
+
+Employees can update their email address through the company profile portal.
+
+Steps:
+
+1. Open Profile Settings.
+2. Select Update Email.
+3. Verify identity.
+4. Save changes.
+
+All email updates must be verified before becoming active.
